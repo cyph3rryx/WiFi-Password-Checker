@@ -3,20 +3,26 @@
 This code allows you to see a list of WiFi profiles that you have connected to in the past, and then choose one of those profiles to display its security key.
 Requirements
 
-    Python 3
-    The subprocess module (part of the Python standard library)
+   1. Python 3
+    
+   2. The subprocess module (part of the Python standard library)
+    
+``` import subprocess ```
 
 ## Usage
 
-    Run the code using python wifi_password_checker.py
-    The code will display a list of WiFi profiles that you have connected to in the past.
-    Choose a WiFi profile by entering its number in the list.
-    The code will display the security key for the selected WiFi profile.
+    -> Run the code using 
+ 
+```python wifi_password_checker.py```
+    
+    -> The code will display a list of WiFi profiles that you have connected to in the past.
+    -> Choose a WiFi profile by entering its number in the list.
+    -> The code will display the security key for the selected WiFi profile.
 
 ## Limitations
 
-    This code only works on Windows operating systems.
-    The security key is only displayed if it is stored on your device. If the security key is not stored, the code will not be able to display it.
+    !--> This code only works on Windows operating systems.
+    !--> The security key is only displayed if it is stored on your device. If the security key is not stored, the code will not be able to display it.
 
 ## Disclaimer
 
