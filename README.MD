@@ -13,7 +13,7 @@ Requirements
 
     -> Run the code using 
  
-```python wifi_password_checker.py```
+```python wifi_pass_check.py```
     
     -> The code will display a list of WiFi profiles that you have connected to in the past.
     -> Choose a WiFi profile by entering its number in the list.
