@@ -27,3 +27,5 @@ Requirements
 ## Disclaimer
 
 This code is for educational purposes only. Do not use it for any illegal activities. I am not responsible for any misuse of this code.
+
+## Author: Cyph3rRyx
