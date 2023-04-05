@@ -1,7 +1,8 @@
 # WiFi Password Checker
 
 This code allows you to see a list of WiFi profiles that you have connected to in the past, and then choose one of those profiles to display its security key.
-Requirements
+
+## Requirements
 
    1. Python 3
     
