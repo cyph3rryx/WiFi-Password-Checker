@@ -29,4 +29,8 @@ This code allows you to see a list of WiFi profiles that you have connected to i
 
 This code is for educational purposes only. Do not use it for any illegal activities. I am not responsible for any misuse of this code.
 
+## License
+
+This repository is licensed under the MIT License - see the LICENSE file for details.
+
 ## Author: Cyph3rRyx
